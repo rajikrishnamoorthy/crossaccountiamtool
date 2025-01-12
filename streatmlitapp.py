@@ -3,10 +3,10 @@ import requests
 import json
 
 # Lambda function URLs
-FETCH_RESOURCE_ARN_URL = "https://7pa7jfdfvwtc6lphhgju4ik3oi0upuvm.lambda-url.us-east-1.on.aws/"
-FETCH_IAM_PERMISSIONS_URL = "https://qp6y7qaku6p4cvwlrlhjnio3ve0agmiq.lambda-url.us-east-1.on.aws/"
-CREATE_IAM_RESOURCES_URL = "https://37coaeam6fjh23t7wjw5vjc2ze0tzfyg.lambda-url.us-east-1.on.aws/"
-CREATE_REQUESTOR_RESOURCES_URL = "https://r3ldqeujurhthpg3ibpot42dum0eactg.lambda-url.us-east-1.on.aws/"
+FETCH_RESOURCE_ARN_URL = "https://xxxxx.lambda-url.us-east-1.on.aws/"
+FETCH_IAM_PERMISSIONS_URL = "https://xxxx.lambda-url.us-east-1.on.aws/"
+CREATE_IAM_RESOURCES_URL = "https://xxxxx.lambda-url.us-east-1.on.aws/"
+CREATE_REQUESTOR_RESOURCES_URL = "https://xxxx.lambda-url.us-east-1.on.aws/"
 
 # Service Principal values
 SERVICE_PRINCIPALS = [
